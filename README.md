@@ -2,7 +2,7 @@
 
 <p>Apaixonado por tecnologia e design.
 <br />Adoro criar e desenvolver projetos desafiadores e criativos.
-<br />Gosto muito de estar sempre estundando e aprendendo algo novo.</p>
+<br />Gosto muito de estar sempre estudando e aprendendo algo novo.</p>
 
 ##
 
