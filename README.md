@@ -28,4 +28,4 @@
  </div>
  <br>
 
-![imagem](https://github-readme-stats.vercel.app/api?username=d3vlopes&theme=radical)
+![imagem](https://github-readme-stats.vercel.app/api?username=d3vlopes&show_icons=true&theme=radical)
