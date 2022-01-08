@@ -1,8 +1,10 @@
 # Olá, seja bem vindo 👋
 
-<p>Apaixonado por programação e design.
-<br />Adoro criar e desenvolver projetos desafiadores e criativos.
-<br />Gosto muito de estar sempre estudando e aprendendo algo novo.</p>
+<p>
+  Me chamo Leandro Lopes, sou desenvolvedor Web e UI Design.
+<br />Adoro criar e desenvolver projetos desafiadores e criativos. 
+<br />Gosto muito de aprender coisas novas e estar sempre evoluindo.
+</p>
 
 ##
 
