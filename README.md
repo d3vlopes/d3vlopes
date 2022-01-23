@@ -1,4 +1,4 @@
-# Olá, seja bem vindo 👋
+# Olá, seja bem vindo(a) 👋
 
 <p>
   Me chamo Leandro Lopes, sou desenvolvedor Web e UI Design.
