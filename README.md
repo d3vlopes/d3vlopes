@@ -1,7 +1,7 @@
 # Olá, seja bem vindo(a) 👋
 
 <p>
-  Me chamo Leandro Lopes, sou desenvolvedor Web e UI Design.
+  Me chamo Leandro Lopes, sou desenvolvedor e UI Design.
 <br />Adoro criar e desenvolver aplicações que possam ajudar as pessoas.
 <br />Gosto muito de aprender coisas novas e estar sempre evoluindo.
 </p>
