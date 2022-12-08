@@ -3,7 +3,7 @@
 <p>
   Me chamo Leandro Lopes, sou desenvolvedor e UX/UI Design.
 <br />Adoro criar e desenvolver aplicações que possam ajudar as pessoas.
-<br />Gosto muito de aprender coisas novas e estar sempre evoluindo.
+<br />Estou sempre em busca de aprender coisas novas e estar sempre evoluindo.
 </p>
 
 <h3 align="left"> Vamos conversar?</h3>
