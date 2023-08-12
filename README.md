@@ -19,8 +19,3 @@ Se você busca um profissional comprometido com a qualidade, eficiente e criativ
  <a href = "mailto:contato.leandrolopes@outlook.com"><img src="https://img.shields.io/badge/email-1a1a1a?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
  </div>
  <br>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3vlopes&show_icons=true&theme=material-palenight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vlopes&theme=material-palenight&layout=compact&langs_count=8&hide=objective-c&dart" />
-</div>
