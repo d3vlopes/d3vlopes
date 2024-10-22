@@ -13,4 +13,3 @@ Entre em contato, eu posso te ajudar!
 </p>
 
 * [Linkedin](https://www.linkedin.com/in/d3vlopes)
-* [Instagram](https://www.instagram.com/d3vlopes)
