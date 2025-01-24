@@ -7,9 +7,7 @@ Sou fundador do [Code Challenges](https://www.codechallenges.com.r), um ambiente
 
 Sou autor do livro [Design para Devs](https://www.designparadevs.com.br), onde ensino os principais conceitos sobre design e experiência do usuário que todo desenvolvedor profissional deve saber para proporcionar experiências excepcionais para os usuários.
 
-Está com dificuldade para conseguir sua primeira oportunidade como desenvolvedor?
-
-Entre em contato, eu posso te ajudar!
+Vamos conversar?
 </p>
 
 * [Linkedin](https://www.linkedin.com/in/d3vlopes)
