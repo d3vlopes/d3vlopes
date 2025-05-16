@@ -1,9 +1,9 @@
 # Olá, seja bem vindo(a) 👋
 
 <p>
-Ajudo desenvolvedores júniors a ganhar experiência e entrar no mercado, através de um ambiente prático e imersivo!
+Desenvolvedor web com sólidos conhecimentos em tecnologias modernas e boas práticas de Engenharia de Software.
 
-Sou fundador do [Code Challenges](https://www.codechallenges.com.r), um ambiente inovador que ajuda desenvolvedores a ganhar experiência real através de desafios de programação do mundo real.
+Acredito que um bom produto nasce do equilíbrio entre tecnologia e design com foco na experiência do usuário.
 
 Sou autor do livro [Design para Devs](https://www.designparadevs.com.br), onde ensino os principais conceitos sobre design e experiência do usuário que todo desenvolvedor profissional deve saber para proporcionar experiências excepcionais para os usuários.
 
